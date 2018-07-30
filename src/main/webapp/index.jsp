@@ -43,7 +43,7 @@ Released   : 20101122
 			<div id="page-bgbtm">
 				<div id="content">
 					<div class="post">
-						<h2 class="title"><a href="#">Welcome to Flower Mum </a></h2>
+						<h2 class="title"><a href="#">Welcome to Flower Mum Modify</a></h2>
 						<p class="meta">Posted by <a href="#">Someone</a> on October 8, 2010
 							&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
 						<div class="entry">
