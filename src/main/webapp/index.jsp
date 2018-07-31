@@ -32,7 +32,7 @@ Released   : 20101122
 			</ul>
 		</div>
 		<div id="logo">
-			<h1><a href="#">Flower Mum </a></h1>
+			<h1><a href="#">Flower Mum Modify 2</a></h1>
 			<p> Template design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a></p>
 		</div>
 	</div>
